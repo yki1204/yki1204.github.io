@@ -11,8 +11,8 @@ exclude:
 # Site settings
 title: Raon Project
 subtitle: "Raon: Reliable Application ON-Demand"
-email: blcentra@gmail.com
-name: Ben Centra
+email: yki1204@gmail.com
+name: Yu keunil
 description: >
   A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -76,19 +76,19 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-  - name: Twitter
-    icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
-    desc: Follow me on Twitter
-    share: true
+  # - name: Twitter
+  #   icon: twitter
+  #   username: TheBenCentra
+  #   url: https://twitter.com/TheBenCentra
+  #   desc: Follow me on Twitter
+  #   share: true
 
-  - name: Facebook
-    icon: facebook
-    username: thebencentra
-    url: ""
-    desc: Friend me on Facebook
-    share: true
+  # - name: Facebook
+  #   icon: facebook
+  #   username: thebencentra
+  #   url: ""
+  #   desc: Friend me on Facebook
+  #   share: true
 
   - name: GitHub
     icon: github
