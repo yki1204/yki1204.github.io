@@ -9,8 +9,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+title: Raon Project
+subtitle: "Raon: Reliable Application ON-Demand"
 email: blcentra@gmail.com
 name: Ben Centra
 description: >
